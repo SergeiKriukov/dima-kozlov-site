@@ -2,6 +2,9 @@
 
 Веб-сайт с рассказами и фотогалереей [Димы Козлова](https://dimakozlov.ru).
 
+<img width="1000" height="946" alt="image" src="https://github.com/user-attachments/assets/e114c953-0590-4edd-9c03-af4bc0afb489" />
+
+
 Проект сделан в поддержку писателя: сайт и мобильное приложение с его текстами и визуальным рядом.
 
 - **Сайт:** этот репозиторий · [dimakozlov.ru](https://dimakozlov.ru)
