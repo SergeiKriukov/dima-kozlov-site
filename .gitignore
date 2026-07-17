@@ -44,3 +44,6 @@ stories_swift.txt
 # Photo optimization intermediates
 photos-optimized/
 public/photos-optimized/
+
+# Android APK (deploy to hosting only; keep public/app/ in repo via .gitkeep)
+public/app/*.apk

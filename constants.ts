@@ -2,6 +2,8 @@ import { Story, Photo } from './types';
 
 export const SPONSOR_NAME = "Адвокатское бюро г. Москвы «Крюков, Анишин и партнёры»";
 export const SPONSOR_URL = "https://kaplaw.ru";
+export const APP_APK_URL = "/app/dima-kozlov.apk";
+export const APP_APK_LABEL = "Приложение · Android";
 
 export const PHOTOS: Photo[] = [
   { id: 'pict000', url: '/photos/pict000.JPG', caption: 'pict000', width: 1200, height: 900 },
